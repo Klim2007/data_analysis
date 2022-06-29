@@ -5,7 +5,8 @@ if you are reading this: small project is not for complicated issues resolving. 
 
 while doing this project i`d learn the following: 
 -  create MySQL query via python 
--  connect simple API (which is done as a  separate module, in order to use it in upcoming projects, and lear how to create and use personal modules)
+-  connect simple API (which is done as a  separate module, in order to use it in upcoming projects)
+-  create and use personal modules
 -  modify data taken from data base using pandas
 -  drowing visual graf via matplotlib (as a final result)
 
