@@ -1,5 +1,6 @@
 # data_analysis
 my personal idea of a small data analysis project 
+
 if you are reading this: small project is not for complicated issues resolving. It was created just to show my basic python knowlages 
 
 while doing this project i`d learn the following: 
