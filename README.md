@@ -8,7 +8,7 @@ while doing this project i`d learn the following:
 -  connect simple API (which is done as a  separate module, in order to use it in upcoming projects)
 -  create and use personal modules
 -  modify data taken from data base using pandas
--  drowing visual graf via matplotlib (as a final result)
+-  drawing visual graf via matplotlib (as a final result)
 
 what does this code doing
 project consists of 2 files
@@ -21,6 +21,6 @@ Note: this project will not run on your PC because data base is local, you need 
     password = "Klim!2007", -- your password
     port = '3306', 
     database = 'sakila' -- your scheme
-and you need to adjust query (columns and tables) in code 
-"SELECT amount, DATE(payment_date) as PTDate FROM payment " 
+and you need to adjust query  in code due to your name of sheme and columns
+
 YOU CAN ALSO USE THIS PROJECT FOR ANY GRAF/DATASET CREATION  WHERE IN  ACTUAL CURRENCY RATES AND/OR DATA FROM DATABASE SHOULD BE USED 
