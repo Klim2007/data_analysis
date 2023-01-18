@@ -18,7 +18,7 @@ project consists of 2 files
 Note: this project will not run on your PC because data base is local, you need to state you personal access setting
     host = "localhost",
     user = "root",          -- your username
-    password = "Klim!2007", -- your password
+    password = "*****", -- your password
     port = '3306', 
     database = 'sakila' -- your scheme
 and you need to adjust query  in code due to your name of sheme and columns
